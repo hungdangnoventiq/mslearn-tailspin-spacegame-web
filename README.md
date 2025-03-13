@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/HungDangDemoDevOps/SpaceGame-Lab23-Workflow/_apis/build/status%2FSpaceGame-Lab23-Workflow-CI?branchName=main)](https://dev.azure.com/HungDangDemoDevOps/SpaceGame-Lab23-Workflow/_build/latest?definitionId=10&branchName=main)
 
 # Contributing
 
