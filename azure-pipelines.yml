@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  hungdangdevopsvmagent
+  'Azure Pipelines'
 
 variables:
   buildConfiguration: 'Release'
